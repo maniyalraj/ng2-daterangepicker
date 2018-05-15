@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/evansmwendwa/ng2-daterangepicker"
+    "url": "git+https://github.com/maniyalraj/ng2-daterangepicker"
   },
   "bugs": {
-    "url": "https://github.com/evansmwendwa/ng2-daterangepicker/issues"
+    "url": "https://github.com/maniyalraj/ng2-daterangepicker/issues"
   },
-  "homepage": "https://github.com/evansmwendwa/ng2-daterangepicker#readme",
+  "homepage": "https://github.com/maniyalraj/ng2-daterangepicker#readme",
   "license": "MIT",
   "files": [
     "README.md",
